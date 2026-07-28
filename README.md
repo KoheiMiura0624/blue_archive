@@ -3,3 +3,7 @@
 
 分析内容
 1. 新ガチャのシミュレーションコード
+01_gacha_simulation/02_release_notebook
+こちらにコードがまとまっています。
+マニュアル：how_to_use.md
+ノートブック：v11_BlueArchive_GachaSimulation.ipynb
